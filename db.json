@@ -1,0 +1,6 @@
+{
+  "devices": [
+    { "name": "Laptop", "ip": "192.168.0.2", "status": "Confiável" },
+    { "name": "Smartphone", "ip": "192.168.0.3", "status": "Suspeito" }
+  ]
+}
