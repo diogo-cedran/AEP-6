@@ -1,4 +1,4 @@
-# aep6
+# AEP-6
 
 A new Flutter project.
 
@@ -21,6 +21,13 @@ json-server --watch db.json --port 49060
 
 ## Visão Geral
 O NetGuard é uma aplicação moderna e segura desenvolvida para monitorar redes domésticas. Ele fornece informações em tempo real sobre dispositivos conectados e comportamento de tráfego, ajudando a identificar possíveis ameaças e a proteger sua rede.
+
+### Trabalho realizado por:
+
+- Hudson Uccelli Matias dos Santos - RA: 22045746-2
+- Gabriel Presense RA: 22143207-2
+- Diogo Tizolim Cedran - RA: 22014212-2
+
 
 ## Manutenções Realizadas
 ### Manutenção Corretiva
